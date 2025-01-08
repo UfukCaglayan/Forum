@@ -9,3 +9,8 @@ Kullanıcılar birbirlerinin profil sayfalarına girebilir ve mesaj bırakabilir
 Giriş yapmış kullanıcılar düşüncelerini forum yoluyla paylaşabilirler.
 
 ![forum](https://github.com/user-attachments/assets/96f2f44e-6f80-47de-85c9-5c347cf5b70d)
+
+Projeyi ayağa kaldırabilmek için öncesinde bilgisayarınızda maven'in kurulu olması gerekir.
+-mvn clean install
+-mvn spring-boot:run 
+komutlarıyla beraber projeyi bilgisayarınızda çalıştırabilirsiniz.
